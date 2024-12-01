@@ -12,7 +12,7 @@ const Sidebar = ({ toggleSidebar }) => {
     <div>
       <div className="fixed inset-0 z-50 flex">
         {/* Modal */}
-        <div className="relative z-10 bg-white h-screen w-2/5  shadow-lg">
+        <div className="relative z-10 bg-white h-screen md:w-2/5 w-3/5  shadow-lg">
           <div className="border-b">
             <button
               className="text-black text-xl hover:text-black p-4"
