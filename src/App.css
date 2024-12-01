@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+/* For Webkit-based browsers (Chrome, Safari) */
